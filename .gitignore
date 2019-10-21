@@ -91,6 +91,14 @@ Thumbs.db
 !README.md
 !CHANGELOG.md
 !composer.json
+!gulpfile.js
+!.htaccess
+!license.txt
+!package.json
+!package-lock.json
+!readme.html
+!settings.js
+!webpack.config.js
 
 # track favicon files, if they exist
 !android-chrome-*.png
