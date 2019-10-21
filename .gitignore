@@ -97,6 +97,7 @@ Thumbs.db
 !package.json
 !package-lock.json
 !readme.html
+!README.md
 !settings.js
 !webpack.config.js
 
